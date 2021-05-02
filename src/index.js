@@ -1,3 +1,3 @@
-// import './sass/main.scss';
+import './sass/main.scss';
 import './styles.css';
-import './changeTheme';
+import mainItem from './template/main-items.hbs'
